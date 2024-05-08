@@ -1,0 +1,328 @@
+{
+  "personalInfo": {
+    "name": "Aryan Jand",
+    "jobTitle": "Software Developer",
+    "bio": "A passionate developer...",
+    "briefIntro": "Focused on Fullstack and Network Security, working from Vancouver, BC.",
+    "resumeLink": "https://drive.google.com/file/d/1ipufM6DVqmFfAyUvbDIFjM9-vcKL58Sj/view?usp=sharing",
+    "profilePicture": "https://cdn.discordapp.com/attachments/1218431020420825160/1237620739415474196/IMG_6031.jpg?ex=663cf862&is=663ba6e2&hm=e6d12ddd918451f763ad51cd3e2f8324ee2962eb9feb4063a7f71729da3cb8b1&",
+    "roles": ["Developer,", "Cybersecurity Specialist,", "TA / Marker."]
+  },
+  "employmentHistory": {
+    "company": {
+      "name": "Innovibe",
+      "site": "https://innovibe.ca/"
+    },
+    "jobTitle": "Software Developer",
+    "specialization": "Fullstack"
+  },
+  "about": {
+    "title": "New",
+    "description": [
+      {
+        "id": 1,
+        "text": "My passion lies in creating software that solves real-world problems and positively impacts people’s lives."
+      },
+      {
+        "id": 3,
+        "text": "In addition to my work in software development, I’m also an active leader and member of tech communities on campus, including the Google Developer Student Clubs and Microsoft Learn Student Ambassadors."
+      },
+      {
+        "id": 4,
+        "text": "Whether it’s binge-watching my favorite anime series, cheering on Manchester United, hanging out with friends, or discovering new music in my favorite genres like RnB, UK Drill, and Chill Rap, I’m always looking for ways to relax and unwind."
+      },
+      {
+        "id": 5,
+        "text": "Right now, I’m working on some exciting projects that I can’t wait to share with you. But I’m always open to new opportunities and collaborations."
+      }
+    ],
+    "techStack": [
+      {
+        "id": 1,
+        "title": "Frontend Tools",
+        "titleClass": "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]",
+        "titleWordSpace": "mr-[0.25em]",
+        "titleCharSpace": "mr-[0.01em]",
+        "bodyText": "JavaScript(ES6+), React, Next.js, TypeScript, Redux, Redux Toolkit, React Testing Library, Vitetest, HTML5, Git/GitHub, NextAuth, Formik."
+      },
+      {
+        "id": 2,
+        "title": "UI Libraries",
+        "titleClass": "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]",
+        "titleWordSpace": "mr-[0.25em]",
+        "titleCharSpace": "mr-[0.01em]",
+        "bodyText": "CSS3/SCSS/SASS, Tailwind CSS, Material UI, Framer Motion, GSAP, Bootstrap, Chart.js."
+      },
+      {
+        "id": 3,
+        "title": "Design Tools",
+        "titleClass": "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]",
+        "titleWordSpace": "mr-[0.25em]",
+        "titleCharSpace": "mr-[0.01em]",
+        "bodyText": "Figma, FigJam, Adobe XD, ProtoPie, Adobe Photoshop, UX Research, UI Design, Prototyping."
+      }
+    ]
+  },
+  "metadata": {
+    "description": "Network Security student at BCIT and Full Stack Developer based in Vancouver, BC. Passionate about creating secure and innovative digital solutions.",
+    "keywords": [
+      "freelance",
+      "developer",
+      "freelance developer",
+      "frontend",
+      "react",
+      "frontend developer",
+      "frontend engineer",
+      "backend developer",
+      "backend engineer",
+      "fullstack developer",
+      "fullstack engineer",
+      "tech",
+      "canada",
+      "vancouver",
+      "software",
+      "software developer",
+      "software engineer",
+      "portfolio",
+      "frontend developer portfolio"
+    ],
+    "url": "",
+    "siteName": "",
+    "image": ""
+  },
+  "projects": [],
+  "blogs": [
+    {
+      "title": "Reflecting on 2022",
+      "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1672494063925/1ee2925f-e529-4a8b-9dd7-6eea996a34eb.png",
+      "date": "DEC 2022",
+      "url": "",
+      "available": true
+    },
+    {
+      "title": "2023: A Year in Review",
+      "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1704146853987/5e5ffc0f-9d20-4cc8-ad94-00ec737ba0f5.jpeg",
+      "date": "JAN 2024",
+      "url": "",
+      "available": true
+    }
+  ],
+  "favoriteSongs": [
+    {
+      "title": "I Don't Fuck With You",
+      "artist": "Big Sean",
+      "image": "https://i.scdn.co/image/ab67616d0000b27350192d5f728fea13fb3af203",
+      "link": "https://open.spotify.com/track/7FYH5AW3bVfZHJIQpq3UOA"
+    },
+    {
+      "title": "Money In The Grave (Drake ft. Rick Ross)",
+      "artist": "Drake",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d",
+      "link": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
+    },
+    {
+      "title": "?",
+      "artist": "XXXTENTACION",
+      "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+      "link": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm?si=RVIW778HTM2Z_u_z-9a05g"
+    },
+    {
+      "title": "WIT IT",
+      "artist": "Cape Lions",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738704e41889ffbac6deddd0f2",
+      "link": "https://open.spotify.com/track/03602oUq67DeHi34YPVYl2"
+    },
+    {
+      "title": "Whatever USA",
+      "artist": "Hoodie Allen",
+      "image": "https://i.scdn.co/image/ab67616d00001e02328a91e8cb13b47ba6bcebef",
+      "link": "https://open.spotify.com/album/17T8CV4M48fbpx0npYM3HY?si=Gqje_MScQPqiLzsiZ0y8oQ"
+    },
+    {
+      "title": "Meet The Woo 2 (Deluxe)",
+      "artist": "Pop Smoke",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cd90e898c070ef21812ab363",
+      "link": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU?si=D_cKyknXR_WYuTEMpNy9dg"
+    },
+    {
+      "title": "Wasted (Nightcore) [Bass Boosted]",
+      "artist": "Murkish",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731d0a0f4f00b8c33218c7c585",
+      "link": "https://open.spotify.com/track/1CPSRRXGTQVgc1DIRWmLcg"
+    },
+    {
+      "title": "Ni**as In Paris",
+      "artist": "JAY-Z",
+      "image": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
+      "link": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
+    },
+    {
+      "title": "Spider-Man: Into the Spider-Verse",
+      "artist": "Various Artists",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+      "link": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs?si=0hhggSN4TE6VyYy-LwnAkg"
+    },
+    {
+      "title": "Still Slide",
+      "artist": "King OSF",
+      "image": "https://i.scdn.co/image/ab67616d0000b273eeea28f5091f42e5cb74863b",
+      "link": "https://open.spotify.com/track/6Dr5dsKmJfiw7M0jBXmYik"
+    },
+    {
+      "title": "Mask Off",
+      "artist": "Future",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e0b64c8be3c4e804abcb2696",
+      "link": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+    },
+    {
+      "title": "Legends Never Die",
+      "artist": "Juice WRLD",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+      "link": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL?si=BVn45185RX-_QMgk8FPj6A"
+    },
+    {
+      "title": "Save Yourself",
+      "artist": "LocoCity",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ac6a8c9c135961a8a9bba71d",
+      "link": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA?si=RVbTG0A_RZyRAEjxIpMciQ"
+    },
+    {
+      "title": "Waking Up",
+      "artist": "OneRepublic",
+      "image": "https://i.scdn.co/image/ab67616d0000b27358b5aeb8268081f032886204",
+      "link": "https://open.spotify.com/album/2NnilgZ9YwkKQIoKUHdJSm?si=WDqPvhCwRYSBAN5xHBt7VQ"
+    },
+    {
+      "title": "Donda",
+      "artist": "Kanye West",
+      "image": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd",
+      "link": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz?si=GSXKfnqORgWmaz7F094L0g"
+    },
+    {
+      "title": "Stoney (Deluxe)",
+      "artist": "Post Malone",
+      "image": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
+      "link": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC?si=D0-mBxB3TLSQLrS1ioSdAQ"
+    },
+    {
+      "title": "We Paid (feat. 42 Dugg)",
+      "artist": "Lil Baby",
+      "image": "https://i.scdn.co/image/ab67616d0000b27376a4577dd654bf457a4ad1f8",
+      "link": "https://open.spotify.com/track/6gxKUmycQX7uyMwJcweFjp"
+    },
+    {
+      "title": "Come Through (feat. Lil Tecca)",
+      "artist": "Bankrol Hayden",
+      "image": "https://i.scdn.co/image/ab67616d0000b273d28490b214e4b86bbe3d128b",
+      "link": "https://open.spotify.com/album/1MmvvWW9bxBU68A6eciF2B?si=IbH8_zcARA-gQ2bfcch57A"
+    },
+    {
+      "title": "Fiji (Bonus Track)",
+      "artist": "Lil Loski",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ef25edc555e037cfc8e42991",
+      "link": "https://open.spotify.com/track/2pLPUx9oQfg8L5sAEPDGBp"
+    },
+    {
+      "title": "No Idea",
+      "artist": "Don Toliver",
+      "image": "https://i.scdn.co/image/ab67616d0000b27345190a074bef3e8ce868b60c",
+      "link": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
+    },
+    {
+      "title": "The Life Of Pablo",
+      "artist": "Kanye West",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732a7db835b912dc5014bd37f4",
+      "link": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1?si=DP60yVtbQ1uIdArodBoNrA"
+    },
+    {
+      "title": "SNOWMAN",
+      "artist": "Arizona Zervas",
+      "image": "https://i.scdn.co/image/ab67616d0000b27396a36771e3c023beaeca00b0",
+      "link": "https://open.spotify.com/album/0jbrRg5mahBKrvbPQDLisP?si=kh2pDRFESGK04YMwUJr-vg"
+    },
+    {
+      "title": "ASTROWORLD",
+      "artist": "Travis Scott",
+      "image": "https://i.scdn.co/image/ab67616d0000b273072e9faef2ef7b6db63834a3",
+      "link": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I?si=NN_aVeXAT8eT6IPhBlTCMQ"
+    },
+    {
+      "title": "Shit You Love",
+      "artist": "Arizona Zervas",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731c7ca26db46060aed2d6bba3",
+      "link": "https://open.spotify.com/track/2uD3R6DlRdZR8UZW3X97y5"
+    },
+    {
+      "title": "GOODMORNINGTOKYO!",
+      "artist": "TOKYO\u2019S REVENGE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e502c40b5b02ca40f6a8adcc",
+      "link": "https://open.spotify.com/track/32aVpvig4eQuNjMzQ8pNKN"
+    },
+    {
+      "title": "Swerve",
+      "artist": "Arizona Zervas",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736f95b9c092d5b23f1f16c859",
+      "link": "https://open.spotify.com/track/3TXYRNSjz8txG5rL5H9RWO"
+    },
+    {
+      "title": "Heartless",
+      "artist": "Kanye West",
+      "image": "https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18",
+      "link": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "title": "Low Life (feat. The Weeknd)",
+      "artist": "Future",
+      "image": "https://i.scdn.co/image/ab67616d0000b273626745b3aa04899001a924ad",
+      "link": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
+    },
+    {
+      "title": "Wow.",
+      "artist": "Post Malone",
+      "image": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+      "link": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+    },
+    {
+      "title": "Move On - Bonus",
+      "artist": "Lil Tjay",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735af0305457ff290e06dcc4c2",
+      "link": "https://open.spotify.com/track/05WIYJYtnZHUmL1uuYmvY1"
+    },
+    {
+      "title": "Living Facts",
+      "artist": "Arizona Zervas",
+      "image": "https://i.scdn.co/image/ab67616d0000b27305b473c6da97e374248a1bd5",
+      "link": "https://open.spotify.com/album/0tzusAckn6CYqaCBRJHiAh?si=_o869xlgQtWgShn3Z6lvYQ"
+    },
+    {
+      "title": "RECKLESS",
+      "artist": "NAV",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730231368c38cf69a722ed1d0b",
+      "link": "https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ?si=xAECS3P3TXG_TNZN6rXqqQ"
+    },
+    {
+      "title": "Cabin Fever",
+      "artist": "xander.",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7292fdaa06aabe32cde2f07",
+      "link": "https://open.spotify.com/album/6fOVLCqVekH7LwMq2yKlMb?si=lpXxwEgXSeKglnrlxRTXYA"
+    },
+    {
+      "title": "Drip Too Hard (Lil Baby & Gunna)",
+      "artist": "Lil Baby",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ce159a3ba2096e13fa9d4b4c",
+      "link": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+    },
+    {
+      "title": "Wasted (feat. Lil Uzi Vert)",
+      "artist": "Juice WRLD",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7db43292a6a99b21b51d5b4",
+      "link": "https://open.spotify.com/track/1a7WZZZH7LzyvorhpOJFTe"
+    }
+  ],
+  "socialMedia": {
+    "github": "https://github.com/aryanjand",
+    "linkedin": "https://www.linkedin.com/in/aryan-jand-5756911b4/",
+    "email": "aryan.jand@gmail.com",
+    "calendlyLink": ""
+  }
+}
