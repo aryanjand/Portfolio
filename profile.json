@@ -7,6 +7,7 @@
     "resumeLink": "https://drive.google.com/file/d/1ipufM6DVqmFfAyUvbDIFjM9-vcKL58Sj/view?usp=sharing",
     "profilePicture": "https://cdn.discordapp.com/attachments/1218431020420825160/1237620739415474196/IMG_6031.jpg?ex=663cf862&is=663ba6e2&hm=e6d12ddd918451f763ad51cd3e2f8324ee2962eb9feb4063a7f71729da3cb8b1&",
     "roles": ["Developer,", "Cybersecurity Specialist,", "TA / Marker."]
+    "roles": ["Developer,", "Cybersecurity,", "TA / Marker."]
   },
   "employmentHistory": {
     "company": {
@@ -17,7 +18,7 @@
     "specialization": "Fullstack"
   },
   "about": {
-    "title": "New",
+    "title": "Crafting Innovative Solutions: A Journey through Web Apps, MVP, Backend, and Frontend Expertise.",
     "description": [
       {
         "id": 1,
