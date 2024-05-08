@@ -6,7 +6,6 @@
     "briefIntro": "Focused on Fullstack and Network Security, working from Vancouver, BC.",
     "resumeLink": "https://drive.google.com/file/d/1ipufM6DVqmFfAyUvbDIFjM9-vcKL58Sj/view?usp=sharing",
     "profilePicture": "https://cdn.discordapp.com/attachments/1218431020420825160/1237620739415474196/IMG_6031.jpg?ex=663cf862&is=663ba6e2&hm=e6d12ddd918451f763ad51cd3e2f8324ee2962eb9feb4063a7f71729da3cb8b1&",
-    "roles": ["Developer,", "Cybersecurity Specialist,", "TA / Marker."]
     "roles": ["Developer,", "Cybersecurity,", "TA / Marker."]
   },
   "employmentHistory": {
@@ -22,19 +21,19 @@
     "description": [
       {
         "id": 1,
-        "text": "My passion lies in creating software that solves real-world problems and positively impacts people’s lives."
+        "text": "I'm passionate about developing software that addresses real-world challenges and positively impacts people's lives."
+      },
+      {
+        "id": 2,
+        "text": "In addition to my software development work, I help lead the Coding4All club on campus, supporting and guiding students in their learning."
       },
       {
         "id": 3,
-        "text": "In addition to my work in software development, I’m also an active leader and member of tech communities on campus, including the Google Developer Student Clubs and Microsoft Learn Student Ambassadors."
-      },
-      {
-        "id": 4,
-        "text": "Whether it’s binge-watching my favorite anime series, cheering on Manchester United, hanging out with friends, or discovering new music in my favorite genres like RnB, UK Drill, and Chill Rap, I’m always looking for ways to relax and unwind."
+        "text": "Whether I'm binge-watching my favorite T.V series, playing games, hanging out with friends, or discovering new music, I always seek ways to relax and unwind."
       },
       {
         "id": 5,
-        "text": "Right now, I’m working on some exciting projects that I can’t wait to share with you. But I’m always open to new opportunities and collaborations."
+        "text": "I'm currently working on exciting projects that I look forward to sharing with you. I'm also eager to explore new opportunities and collaborations."
       }
     ],
     "techStack": [
@@ -44,23 +43,31 @@
         "titleClass": "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]",
         "titleWordSpace": "mr-[0.25em]",
         "titleCharSpace": "mr-[0.01em]",
-        "bodyText": "JavaScript(ES6+), React, Next.js, TypeScript, Redux, Redux Toolkit, React Testing Library, Vitetest, HTML5, Git/GitHub, NextAuth, Formik."
+        "bodyText": "JavaScript(ES6+), TypeScript, React, Tailwind, HTML5, Auth0, Formik."
       },
       {
         "id": 2,
-        "title": "UI Libraries",
+        "title": "Backend Tools",
         "titleClass": "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]",
         "titleWordSpace": "mr-[0.25em]",
         "titleCharSpace": "mr-[0.01em]",
-        "bodyText": "CSS3/SCSS/SASS, Tailwind CSS, Material UI, Framer Motion, GSAP, Bootstrap, Chart.js."
+        "bodyText": "Node.js, Express.js, Nest.js"
       },
       {
         "id": 3,
-        "title": "Design Tools",
+        "title": "Databases",
         "titleClass": "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]",
         "titleWordSpace": "mr-[0.25em]",
         "titleCharSpace": "mr-[0.01em]",
-        "bodyText": "Figma, FigJam, Adobe XD, ProtoPie, Adobe Photoshop, UX Research, UI Design, Prototyping."
+        "bodyText": "MySQL, PostgreSQL, MongoDB, Firebase"
+      },
+      {
+        "id": 4,
+        "title": "Programming Languages",
+        "titleClass": "text-[24px] text-[#e4ded7] md:text-[30px] lg:text-[20px]",
+        "titleWordSpace": "mr-[0.25em]",
+        "titleCharSpace": "mr-[0.01em]",
+        "bodyText": "Java, Python, C#, C/C++"
       }
     ]
   },
@@ -284,10 +291,10 @@
       "link": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
     },
     {
-      "title": "Move On - Bonus",
+      "title": "True 2 Myself",
       "artist": "Lil Tjay",
-      "image": "https://i.scdn.co/image/ab67616d0000b2735af0305457ff290e06dcc4c2",
-      "link": "https://open.spotify.com/track/05WIYJYtnZHUmL1uuYmvY1"
+      "image": "https://i.scdn.co/image/ab67616d0000b273b9fe16b21ea333150c0f50f6",
+      "link": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY?si=i288goSFRVCZquOsGK-KxA"
     },
     {
       "title": "Living Facts",
