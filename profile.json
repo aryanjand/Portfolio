@@ -94,11 +94,53 @@
       "portfolio",
       "frontend developer portfolio"
     ],
-    "url": "",
-    "siteName": "",
-    "image": ""
+    "url": "https://aryanportfolio-imid5w6v6-aryans-projects-62be3a57.vercel.app/",
+    "siteName": "Aryan's Portfolio",
+    "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1237935553886818414/cover-image.png?ex=663d74d3&is=663c2353&hm=cd57dca9643939370ca0a0afd9dea93d3e14db70edd6a0bff827ccbd22299911&"
   },
-  "projects": [],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project 1",
+      "description": "Project 1 description",
+      "technologies": ["Next.js", "Typescript", "Prisma"],
+      "github": "https://github.com/victorcodess/flixify",
+      "demo": "https://flixify.victorwilliams.me/",
+      "image": "",
+      "available": true
+    },
+
+    {
+      "id": 2,
+      "name": "Project 1",
+      "description": "Project 1 description",
+      "technologies": ["Next.js", "Typescript", "Prisma"],
+      "github": "https://github.com/victorcodess/flixify",
+      "demo": "https://flixify.victorwilliams.me/",
+      "image": "",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Project 1",
+      "description": "Project 1 description",
+      "technologies": ["Next.js", "Typescript", "Prisma"],
+      "github": "https://github.com/victorcodess/flixify",
+      "demo": "https://flixify.victorwilliams.me/",
+      "image": "",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Link Shortener",
+      "description": "",
+      "technologies": ["Next.js", "Typescript", "Prisma"],
+      "github": "https://github.com/victorcodess/flixify",
+      "demo": "https://flixify.victorwilliams.me/",
+      "image": "",
+      "available": true
+    }
+  ],
   "blogs": [
     {
       "title": "Reflecting on 2022",
