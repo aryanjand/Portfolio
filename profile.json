@@ -364,6 +364,15 @@
       "link": "https://open.spotify.com/track/1a7WZZZH7LzyvorhpOJFTe"
     }
   ],
+  "blogs": [
+    {
+      "title": "",
+      "image": "",
+      "date": "",
+      "url": "",
+      "available": false
+    }
+  ],
   "socialMedia": {
     "github": "https://github.com/aryanjand",
     "linkedin": "https://www.linkedin.com/in/aryan-jand-5756911b4/",
