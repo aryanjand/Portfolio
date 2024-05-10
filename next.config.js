@@ -6,7 +6,11 @@ const nextConfig = {
   optimizeFonts: false,
   images: {
     formats: ['image/avif', 'image/webp'],
-    domains: ['user-images.githubusercontent.com', 'cdn.discordapp.com'],
+    domains: [
+      'user-images.githubusercontent.com',
+      'cdn.discordapp.com',
+      'media.discordapp.net',
+    ],
     remotePatterns: [
       {
         protocol: 'https',
