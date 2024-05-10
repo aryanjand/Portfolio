@@ -100,61 +100,56 @@
   },
   "projects": [
     {
-      "id": 1,
-      "name": "Project 1",
-      "description": "Project 1 description",
-      "technologies": ["Next.js", "Typescript", "Prisma"],
-      "github": "https://github.com/victorcodess/flixify",
-      "demo": "https://flixify.victorwilliams.me/",
-      "image": "",
-      "available": true
-    },
-
-    {
       "id": 2,
-      "name": "Project 1",
-      "description": "Project 1 description",
-      "technologies": ["Next.js", "Typescript", "Prisma"],
-      "github": "https://github.com/victorcodess/flixify",
-      "demo": "https://flixify.victorwilliams.me/",
-      "image": "",
-      "available": true
+      "name": "WhatsApp Chat Bot",
+      "description": "This student-sponsored project, in collaboration with Virtual Hospitals Africa, aims to provide virtual healthcare services to remote parts of Zimbabwe.",
+      "technologies": ["Preact", "Typescript", "Meta Business API"],
+      "github": "",
+      "demo": "",
+      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238195632112406558/Screenshot_2024-05-09_at_11.26.47_AM.png?ex=663e670b&is=663d158b&hm=e0f80d3a9b6da26db35396b1aae5ee897b6cb596e0abee106fec4999df826f17&",
+      "available": {
+        "github": false,
+        "demo": false
+      }
     },
     {
       "id": 3,
-      "name": "Project 1",
-      "description": "Project 1 description",
-      "technologies": ["Next.js", "Typescript", "Prisma"],
-      "github": "https://github.com/victorcodess/flixify",
-      "demo": "https://flixify.victorwilliams.me/",
-      "image": "",
-      "available": true
+      "name": "ServTennis ML",
+      "description": "In collaboration with ServTennis, aims to analyze tennis match footage using neural networks, tracking player and ball movements. Producing comprehensive visualizations like heatmaps.",
+      "technologies": ["Python", "Pytorch", "Matplotlib"],
+      "github": "",
+      "demo": "",
+      "image": "https://media.discordapp.net/attachments/1218431020420825160/1238629182553063465/Screenshot_2024-05-10_at_4.08.45_PM.png?ex=663ffad1&is=663ea951&hm=aabb961da2ec721009581b3a9b36d0d6591655cdee8c4edc55718bb82d4f98f8&=&format=webp&quality=lossless&width=1410&height=790",
+      "available": {
+        "github": false,
+        "demo": false
+      }
     },
     {
       "id": 4,
-      "name": "Link Shortener",
-      "description": "",
-      "technologies": ["Next.js", "Typescript", "Prisma"],
-      "github": "https://github.com/victorcodess/flixify",
-      "demo": "https://flixify.victorwilliams.me/",
-      "image": "",
-      "available": true
-    }
-  ],
-  "blogs": [
-    {
-      "title": "Reflecting on 2022",
-      "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1672494063925/1ee2925f-e529-4a8b-9dd7-6eea996a34eb.png",
-      "date": "DEC 2022",
-      "url": "",
-      "available": true
+      "name": "CyberReddit",
+      "description": "Concentrated on enhancing thread creation and user engagement. Employed a recursive MySQL table structure to increase site performance and enable future expansion.",
+      "technologies": ["Typescript", "Nest.js", "Prisma"],
+      "github": "https://github.com/aryanjand/CyberReddit",
+      "demo": "https://cyberreddit.onrender.com",
+      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238628419000864789/Screenshot_2024-05-10_at_4.06.41_PM.png?ex=663ffa1b&is=663ea89b&hm=ccddd02704eceb5af449afa70aa02c7e992e1e0175313a9b3bb89811021b73b5&",
+      "available": {
+        "github": true,
+        "demo": true
+      }
     },
     {
-      "title": "2023: A Year in Review",
-      "image": "https://cdn.hashnode.com/res/hashnode/image/upload/v1704146853987/5e5ffc0f-9d20-4cc8-ad94-00ec737ba0f5.jpeg",
-      "date": "JAN 2024",
-      "url": "",
-      "available": true
+      "id": 5,
+      "name": "Link Shortener",
+      "description": "Pokémon-themed communication app with link shortening and media sharing capabilities, utilizing CDN-based image storage for enhanced app responsiveness and user experience.",
+      "technologies": ["JavaScript", "Express.js", "EJS"],
+      "github": "https://github.com/aryanjand/Link-Shortener",
+      "demo": "https://link-shortener-z5o8.onrender.com",
+      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238291181364838441/Screenshot_2024-05-09_at_5.46.53_PM.png?ex=663ec007&is=663d6e87&hm=c4a53c55a0cd9534746c30fa28ecd6d183b468e80fa1148cde0f7fcaf96d5f8f&",
+      "available": {
+        "github": true,
+        "demo": true
+      }
     }
   ],
   "favoriteSongs": [
