@@ -6,5 +6,10 @@ export type ProjectProps = {
   github: string;
   demo: string;
   image: string;
-  available: boolean;
+  available: ProjectAvailable | null;
+};
+
+type ProjectAvailable = {
+  github: boolean;
+  demo: boolean;
 };
