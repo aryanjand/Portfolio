@@ -1,10 +1,11 @@
 import Link from "next/link";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faGithub, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 import Image from "next/image";
 import { monaSans } from "../fonts/monaSans";
 import { motion } from "framer-motion";
 import { imageAnimation, bodyAnimation } from "../animations/animations";
 import AnimatedWords from "../animations/AnimatedWords";
-import profile from "../../public/profile.webp";
 import info from "../../profile.json";
 
 const Hero = () => {
@@ -44,7 +45,15 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              GH
+              <FontAwesomeIcon
+                icon={faGithub}
+                className=" w-[20px] rounded-full p-5 text-[20px] md:w-[25px] md:text-[24px] lg:w-[30px] lg:text-[28px]"
+                data-blobity
+                data-blobity-radius="38"
+                data-blobity-offset-x="4"
+                data-blobity-offset-y="4"
+                data-blobity-magnetic="true"
+              />
             </motion.p>
           </Link>
           <Link
@@ -56,7 +65,15 @@ const Hero = () => {
               className="text-[16px] font-bold text-[#e4ded7] md:text-[16px]"
               variants={bodyAnimation}
             >
-              LN
+              <FontAwesomeIcon
+                icon={faLinkedinIn}
+                className=" w-[20px] rounded-full p-5 text-[20px] md:w-[25px] md:text-[24px] lg:w-[30px] lg:text-[28px]"
+                data-blobity
+                data-blobity-radius="38"
+                data-blobity-offset-x="4"
+                data-blobity-offset-y="4"
+                data-blobity-magnetic="true"
+              />
             </motion.p>
           </Link>
         </div>
@@ -97,8 +114,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            {info.employmentHistory.specialization} and{" "}
-            {info.employmentHistory.jobTitle}, previously worked at{" "}
+            Full Stack and Software Developer with a background at{" "}
             <Link
               href={info.employmentHistory.company.site}
               target="_blank"
@@ -107,7 +123,7 @@ const Hero = () => {
             >
               {info.employmentHistory.company.name},
             </Link>{" "}
-            currently available for work.
+            actively seeking new opportunities.
           </p>
         </motion.div>
 

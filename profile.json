@@ -107,23 +107,17 @@
       "github": "",
       "demo": "",
       "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238195632112406558/Screenshot_2024-05-09_at_11.26.47_AM.png?ex=663fb88b&is=663e670b&hm=a84302f248af245cb6a139f4bc425dd3249620c4f2c91c797a9e85bde0702b55&",
-      "available": {
-        "github": false,
-        "demo": false
-      }
+      "available": null
     },
     {
       "id": 3,
       "name": "ServTennis ML",
-      "description": "In collaboration with ServTennis, aims to analyze tennis match footage using neural networks, tracking player and ball movements. Producing comprehensive visualizations like heatmaps.",
+      "description": "Collaborated with ServTennis to analyze tennis match footage using neural networks. Tracked player and ball movements to create detailed heatmaps.",
       "technologies": ["Python", "Pytorch", "Matplotlib"],
       "github": "",
       "demo": "",
-      "image": "https://media.discordapp.net/attachments/1218431020420825160/1238629182553063465/Screenshot_2024-05-10_at_4.08.45_PM.png?ex=663ffad1&is=663ea951&hm=aabb961da2ec721009581b3a9b36d0d6591655cdee8c4edc55718bb82d4f98f8&=&format=webp&quality=lossless&width=1410&height=790",
-      "available": {
-        "github": false,
-        "demo": false
-      }
+      "image": "https://media.discordapp.net/attachments/1218431020420825160/1238643290887426089/Screenshot_2024-05-10_at_5.05.58_PM.png?ex=664007f5&is=663eb675&hm=a532eaa15b74be071fa780668f6a9f2c50b7251932c1e13dae0ec14f5b01f08e&=&format=webp&quality=lossless&width=1410&height=596",
+      "available": null
     },
     {
       "id": 4,
@@ -132,7 +126,7 @@
       "technologies": ["Typescript", "Nest.js", "Prisma"],
       "github": "https://github.com/aryanjand/CyberReddit",
       "demo": "https://cyberreddit.onrender.com",
-      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238628419000864789/Screenshot_2024-05-10_at_4.06.41_PM.png?ex=663ffa1b&is=663ea89b&hm=ccddd02704eceb5af449afa70aa02c7e992e1e0175313a9b3bb89811021b73b5&",
+      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238644193690390558/Screenshot_2024-05-10_at_5.09.21_PM.png?ex=664008cc&is=663eb74c&hm=56457b9126498bedfbed30473ed413928d4923a699ce3baf21813c0f3b4f89e4&",
       "available": {
         "github": true,
         "demo": true
@@ -141,11 +135,11 @@
     {
       "id": 5,
       "name": "Link Shortener",
-      "description": "Pokémon-themed communication app with link shortening and media sharing capabilities, utilizing CDN-based image storage for enhanced app responsiveness and user experience.",
+      "description": "Developed a Pokémon-themed communication app with link shortening and media sharing features. Implemented CDN-based image storage for improved app responsiveness.",
       "technologies": ["JavaScript", "Express.js", "EJS"],
       "github": "https://github.com/aryanjand/Link-Shortener",
       "demo": "https://link-shortener-z5o8.onrender.com",
-      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238291181364838441/Screenshot_2024-05-09_at_5.46.53_PM.png?ex=663ec007&is=663d6e87&hm=c4a53c55a0cd9534746c30fa28ecd6d183b468e80fa1148cde0f7fcaf96d5f8f&",
+      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238646331283869746/Screenshot_2024-05-10_at_5.18.13_PM.png?ex=66400aca&is=663eb94a&hm=424a03320252cbffae9c64e6d6e5f08015945ab88ea6472aafa5914566c4b4d3&",
       "available": {
         "github": true,
         "demo": true
