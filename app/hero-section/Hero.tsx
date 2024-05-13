@@ -114,7 +114,7 @@ const Hero = () => {
           variants={bodyAnimation}
         >
           <p className="z-50 text-center text-[16px] font-medium text-[#e4ded7] md:text-[20px] lg:text-left">
-            Full Stack and Software Developer with a background at{" "}
+            Full Stack and Software Developer with previous experience at{" "}
             <Link
               href={info.employmentHistory.company.site}
               target="_blank"
