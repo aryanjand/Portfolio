@@ -24,13 +24,17 @@ const ProjectCard = ({
       initial="initial"
       animate="animate"
     >
-      <div className="grid grid-cols-5 grid-rows-2">
+      <div className="grid-container grid grid-cols-5 grid-rows-2">
         <div
-          className={`p-5 lg:p-7 row-start-1 row-span-1  ${id % 2 === 0 ? "col-span-5 md:col-start-1 md:col-span-2" : "col-span-5 md:col-start-4 md:col-span-2"}`}
+          className={`row-span-1 row-start-1 inline-grid p-5 lg:p-7  ${
+            id % 2 === 0
+              ? "col-span-5 md:col-span-2 md:col-start-1"
+              : "col-span-5 md:col-span-2 md:col-start-4"
+          }`}
         >
           <div className={`mt-6 text-[#0E1016] lg:mt-10`}>
             {available ? (
-              <div className={`flex justify-start gap-4 mb-5`}>
+              <div className={`mb-5 flex justify-start gap-4`}>
                 <Link
                   href={github}
                   target="_blank"
@@ -66,39 +70,44 @@ const ProjectCard = ({
 
           <AnimatedTitle
             text={name}
-            className={
-              "text-[34px] text-white md:text-[38px] lg:text-[40px]"
-            }
+            className={"text-[34px] text-white md:text-[38px] lg:text-[40px]"}
           />
           <AnimatedBody
             text={description}
             className={
-              "mt-4 text-[12px] md:text-[14px] lg:text-[16px] font-semibold text-[#95979D]"
+              "mt-4 text-[12px] font-semibold text-[#95979D] md:text-[14px] lg:text-[16px]"
             }
           />
-          <div
-            className={`mt-9 flex gap-4 flex-wrap`}
-          >
+          <div className={`mt-9 flex flex-wrap gap-4`}>
             {technologies.map((tech, id) => (
               <p
                 key={id}
-                className={"text-[12px] font-bold uppercase md:text-[16px] lg:text-[18px]"}
-              >{tech}</p>
+                className={
+                  "text-[12px] font-bold uppercase md:text-[16px] lg:text-[18px]"
+                }
+              >
+                {tech}
+              </p>
             ))}
           </div>
-
         </div>
-        <div className={`flex justify-center row-start-2 row-span-1 ${id % 2 === 0 ? "col-span-5 md:col-start-2 md:col-span-4" : "col-span-5 md:col-start-1 md:col-span-4"}`}>
+        <div
+          className={`row-span-1 row-start-2 flex justify-center ${
+            id % 2 === 0
+              ? "col-span-5 md:col-span-4 md:col-start-2"
+              : "col-span-5 md:col-span-4 md:col-start-1"
+          }`}
+        >
           <Image
             src={image}
             alt={name}
             width={720}
             height={325}
-            className={`w-full max-h-full h-auto lg:h-96 rounded-3xl`}
+            className={`h-auto max-h-full w-full rounded-3xl`}
           />
         </div>
       </div>
-    </motion.div >
+    </motion.div>
   );
 };
 

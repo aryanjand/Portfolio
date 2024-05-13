@@ -8,11 +8,7 @@ type AnimatedTitleProps = {
   delay?: number;
 };
 
-export default function AnimatedTitle({
-  text,
-  className,
-}: AnimatedTitleProps) {
-
+export default function AnimatedTitle({ text, className }: AnimatedTitleProps) {
   const ctrls = useAnimation();
 
   const { ref, inView } = useInView({
@@ -44,7 +40,8 @@ export default function AnimatedTitle({
               staggerChildren: 0.05,
             }}
           >
-            {" "}{word} {index !== text.length - 1 ? " " : null}
+            {" "}
+            {word} {index !== text.length - 1 ? " " : null}
           </motion.span>
         );
       })}
