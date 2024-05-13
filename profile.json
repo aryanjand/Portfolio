@@ -100,23 +100,13 @@
   },
   "projects": [
     {
-      "id": 2,
-      "name": "WhatsApp Chat Bot",
-      "description": "This student-sponsored project, in collaboration with Virtual Hospitals Africa, aims to provide virtual healthcare services to remote parts of Zimbabwe.",
-      "technologies": ["Preact", "Typescript", "Meta Business API"],
-      "github": "",
-      "demo": "",
-      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238195632112406558/Screenshot_2024-05-09_at_11.26.47_AM.png?ex=663fb88b&is=663e670b&hm=a84302f248af245cb6a139f4bc425dd3249620c4f2c91c797a9e85bde0702b55&",
-      "available": null
-    },
-    {
       "id": 3,
       "name": "ServTennis ML",
       "description": "Collaborated with ServTennis to analyze tennis match footage using neural networks. Tracked player and ball movements to create detailed heatmaps.",
       "technologies": ["Python", "Pytorch", "Matplotlib"],
       "github": "",
       "demo": "",
-      "image": "https://media.discordapp.net/attachments/1218431020420825160/1238643290887426089/Screenshot_2024-05-10_at_5.05.58_PM.png?ex=664007f5&is=663eb675&hm=a532eaa15b74be071fa780668f6a9f2c50b7251932c1e13dae0ec14f5b01f08e&=&format=webp&quality=lossless&width=1410&height=596",
+      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238643290887426089/Screenshot_2024-05-10_at_5.05.58_PM.png?ex=664353b5&is=66420235&hm=313db84154ac557b7f7afb04112f2da8d63c3989af38ecdb2baaf93c1394d84b&",
       "available": null
     },
     {
@@ -126,7 +116,7 @@
       "technologies": ["Typescript", "Nest.js", "Prisma"],
       "github": "https://github.com/aryanjand/CyberReddit",
       "demo": "https://cyberreddit.onrender.com",
-      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238644193690390558/Screenshot_2024-05-10_at_5.09.21_PM.png?ex=664008cc&is=663eb74c&hm=56457b9126498bedfbed30473ed413928d4923a699ce3baf21813c0f3b4f89e4&",
+      "image": "https://media.discordapp.net/attachments/1218431020420825160/1239693248167936081/Screenshot_2024-05-13_at_2.38.17_PM.png?ex=6643d9ce&is=6642884e&hm=ce3ef8890d026402cdb8bf95a33cc26c5c98258ca93e602c373c9153d7411616&=&format=webp&quality=lossless&width=1410&height=620",
       "available": {
         "github": true,
         "demo": true
@@ -139,7 +129,7 @@
       "technologies": ["JavaScript", "Express.js", "EJS"],
       "github": "https://github.com/aryanjand/Link-Shortener",
       "demo": "https://link-shortener-z5o8.onrender.com",
-      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238646331283869746/Screenshot_2024-05-10_at_5.18.13_PM.png?ex=66400aca&is=663eb94a&hm=424a03320252cbffae9c64e6d6e5f08015945ab88ea6472aafa5914566c4b4d3&",
+      "image": "https://cdn.discordapp.com/attachments/1218431020420825160/1238291181364838441/Screenshot_2024-05-09_at_5.46.53_PM.png?ex=66435d47&is=66420bc7&hm=e97cfc7f1c4660841d31922cb405537fcedeb21c8ea42822d8b39901507c6f3a&",
       "available": {
         "github": true,
         "demo": true
