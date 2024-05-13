@@ -14,10 +14,8 @@ const About = () => {
         <AnimatedTitle
           text={info.about.title}
           className={
-            "mb-10 text-left text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
+            "mb-10 text-[40px] font-bold leading-[0.9em] tracking-tighter text-[#e4ded7] sm:text-[45px] md:mb-16 md:text-[60px] lg:text-[80px]"
           }
-          wordSpace={"mr-[14px]"}
-          charSpace={"mr-[0.001em]"}
         />
 
         <div className="mx-auto flex w-[100%] flex-col lg:max-w-[1200px] lg:flex-row lg:gap-20">
@@ -33,8 +31,6 @@ const About = () => {
                 <AnimatedTitle
                   text={stack.title}
                   className={stack.titleClass}
-                  wordSpace={stack.titleWordSpace}
-                  charSpace={stack.titleCharSpace}
                 />
                 <AnimatedBody text={stack.bodyText} />
               </div>
