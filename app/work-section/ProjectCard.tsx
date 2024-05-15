@@ -26,15 +26,19 @@ const ProjectCard = ({
     >
       <div className="grid-container grid grid-cols-5 grid-rows-2">
         <div
-          className={`row-span-1 row-start-1 inline-grid p-5 lg:p-7  ${
+          className={`row-span-1 row-start-1 inline-grid p-5 lg:p-7 ${
             id % 2 === 0
-              ? "col-span-5 md:col-span-2 md:col-start-1"
-              : "col-span-5 md:col-span-2 md:col-start-4"
+              ? "col-span-5 md:col-span-4 md:col-start-1"
+              : "col-span-5 md:col-span-4 md:col-start-2"
           }`}
         >
           <div className={`mt-6 text-[#0E1016] lg:mt-10`}>
             {available ? (
-              <div className={`mb-5 flex justify-start gap-4`}>
+              <div
+                className={`mb-5 flex gap-8 ${
+                  id % 2 === 0 ? "justify-start" : "justify-end"
+                }`}
+              >
                 <Link
                   href={github}
                   target="_blank"
@@ -70,15 +74,21 @@ const ProjectCard = ({
 
           <AnimatedTitle
             text={name}
-            className={"text-[34px] text-white md:text-[38px] lg:text-[40px]"}
+            className={`text-[34px] text-white md:text-[38px] lg:text-[40px] ${
+              id % 2 === 0 ? "" : "text-right"
+            }`}
           />
           <AnimatedBody
             text={description}
-            className={
-              "mt-4 text-[12px] font-semibold text-[#95979D] md:text-[14px] lg:text-[16px]"
-            }
+            className={`mt-4 text-[12px] font-semibold text-[#95979D] md:text-[14px] lg:text-[16px] ${
+              id % 2 === 0 ? "" : "text-right"
+            }`}
           />
-          <div className={`mt-9 flex flex-wrap gap-4`}>
+          <div
+            className={`mt-9 flex flex-wrap gap-4 ${
+              id % 2 === 0 ? "" : "justify-end"
+            }`}
+          >
             {technologies.map((tech, id) => (
               <p
                 key={id}
