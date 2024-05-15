@@ -6,13 +6,12 @@ import AnimatedBody from "../animations/AnimatedBody";
 import AnimatedTitle from "../animations/AnimatedTitle";
 import AnimatedWords2 from "../animations/AnimatedWords2";
 import { motion } from "framer-motion";
-import heartIcon from "../../public/heart icon.png";
 import info from "../../profile.json";
 
 const Contact = () => {
   return (
     <motion.section
-      className="relative z-10 flex h-[85vh] w-full items-center justify-center overflow-hidden bg-[#0E1016] bg-cover bg-center py-16 md:h-[80vh] md:py-20 lg:h-[90vh] lg:pt-0 lg:pb-28"
+      className="relative z-10 flex h-[85vh] w-full items-center justify-center bg-[#0E1016] bg-cover bg-center py-16 md:h-[80vh] md:py-20 lg:h-[90vh] lg:pt-0 lg:pb-28"
       id="contact"
       initial="initial"
       animate="animate"
@@ -22,15 +21,10 @@ const Contact = () => {
           className={`flex flex-col items-start justify-center ${monaSans.className} relative w-full sm:items-center lg:max-w-[1440px] `}
         >
           <AnimatedWords2
-            title={"Let's Talk"}
+            title={"Contact me"}
             style={
-              "flex max-w-[500px] flex-col items-start text-left text-[150px] font-extrabold uppercase leading-[0.9em] text-[#e4ded7] sm:max-w-full sm:flex-row sm:items-center sm:justify-center sm:text-center sm:text-[170px] md:text-[200px] lg:text-center lg:text-[270px] xl:text-[390px]"
+              "flex max-w-[500px] text-7xl md:text-9xl flex-col items-start font-extrabold uppercase leading-[0.9em] text-[#e4ded7] sm:max-w-full sm:flex-row sm:justify-center"
             }
-          />
-          <Image
-            src={heartIcon}
-            alt="Heart Icon"
-            className="heartbeat md:-bottom-18 absolute -bottom-5 left-64 w-[120px] sm:-bottom-14 sm:left-[40%] md:left-[40%] md:w-[150px] lg:-bottom-16 lg:left-[42%] lg:w-[230px]"
           />
         </div>
 
@@ -54,23 +48,6 @@ const Contact = () => {
                 <AnimatedBody
                   text={"Send me an email"}
                   className={"bor der w-[190px] pr-[40px] md:w-[170px] md:pr-0"}
-                />
-              </Link>
-              <AnimatedBody
-                text={"or"}
-                className={
-                  "bor der -mb-1 ml-2 inline-block overflow-hidden sm:-mb-2 md:-ml-[8px] md:-mb-3 lg:-mb-4"
-                }
-              />
-              <Link
-                href={info.socialMedia.calendlyLink}
-                target="_blank"
-                aria-label="Make an appointment"
-                className="bor der mt-1 w-[110px] flex-1 underline underline-offset-2 hover:no-underline sm:mt-2 sm:w-[147px] md:mt-3 md:-ml-[3px] md:w-[120px] lg:mt-4"
-              >
-                <AnimatedBody
-                  text={"Book a call"}
-                  className={"w-[110px] md:w-[120px]"}
                 />
               </Link>
             </div>
