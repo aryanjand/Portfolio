@@ -6,7 +6,7 @@
     "briefIntro": "Focused on Fullstack and Network Security, working from Vancouver, BC.",
     "resumeLink": "https://drive.google.com/file/d/1ipufM6DVqmFfAyUvbDIFjM9-vcKL58Sj/view?usp=sharing",
     "profilePicture": "https://cdn.discordapp.com/attachments/1218431020420825160/1237892244841828402/memoji.jpg?ex=663d4c7e&is=663bfafe&hm=e95100315e8c178c82a3c82cf70e898d361dd8c22f583d457d381b5463aa617e&",
-    "roles": ["Developer,", "Cybersecurity,", "TA / Marker."]
+    "roles": ["Developer", "Cybersecurity", "TA / Marker"]
   },
   "employmentHistory": {
     "company": {
@@ -25,11 +25,7 @@
       },
       {
         "id": 2,
-        "text": "In addition to my software development work, I help lead the Coding4All club on campus, supporting and guiding students in their learning."
-      },
-      {
-        "id": 3,
-        "text": "Whether I'm binge-watching my favorite T.V series, playing games, hanging out with friends, or discovering new music, I always seek ways to relax and unwind."
+        "text": "In addition to my software development work, I help lead the Coding4All club at BCIT, supporting and guiding students in their learning."
       },
       {
         "id": 5,
