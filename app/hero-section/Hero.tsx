@@ -8,7 +8,7 @@ import TopNav from "../navbar/TopNav";
 const Hero = () => {
   return (
     <motion.section
-      className="z-10 grid h-[80vh] w-full grid-cols-10 grid-rows-5 bg-[url('.//../public/hero.jpg')] bg-cover bg-center sm:h-[90vh] md:h-[100vh]"
+      className="z-10 grid h-[90vh] w-full grid-cols-10 grid-rows-5 bg-[url('.//../public/hero.jpg')] bg-cover bg-center sm:h-[90vh] md:h-[100vh]"
       id="home"
       initial="initial"
       animate="animate"
