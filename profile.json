@@ -99,7 +99,7 @@
     {
       "id": 3,
       "name": "ServTennis ML",
-      "description": "Collaborated with ServTennis to analyze tennis match footage using neural networks. Tracked player and ball movements to create detailed heatmaps.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacinia, ante a finibus imperdiet, dui purus pharetra nulla, vel posuere tellus metus id magna. Nam ac lorem ut enim auctor venenatis at vel elit. Fusce arcu mi, ullamcorper nec sagittis vitae, congue vel est. Duis nibh tortor, vulputate eu enim gravida, pretium efficitur diam. Aliquam sollicitudin metus ac ante ultrices, id interdum leo ornare. Mauris nisi mi, tristique et tristique eget, bibendum nec libero. Proin libero est, pulvinar at malesuada nec, suscipit in lectus. Aliquam ullamcorper accumsan fermentum. Aenean at mollis nisi.",
       "technologies": ["Python", "Pytorch", "Matplotlib"],
       "github": "",
       "demo": "",
@@ -109,7 +109,7 @@
     {
       "id": 4,
       "name": "CyberReddit",
-      "description": "Concentrated on enhancing thread creation and user engagement. Employed a recursive MySQL table structure to increase site performance and enable future expansion.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacinia, ante a finibus imperdiet, dui purus pharetra nulla, vel posuere tellus metus id magna. Nam ac lorem ut enim auctor venenatis at vel elit. Fusce arcu mi, ullamcorper nec sagittis vitae, congue vel est. Duis nibh tortor, vulputate eu enim gravida, pretium efficitur diam. Aliquam sollicitudin metus ac ante ultrices, id interdum leo ornare. Mauris nisi mi, tristique et tristique eget, bibendum nec libero. Proin libero est, pulvinar at malesuada nec, suscipit in lectus. Aliquam ullamcorper accumsan fermentum. Aenean at mollis nisi.",
       "technologies": ["Typescript", "Nest.js", "Prisma"],
       "github": "https://github.com/aryanjand/CyberReddit",
       "demo": "https://cyberreddit.onrender.com",
@@ -122,7 +122,7 @@
     {
       "id": 5,
       "name": "Link Shortener",
-      "description": "Developed a Pokémon-themed communication app with link shortening and media sharing features. Implemented CDN-based image storage for improved app responsiveness.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lacinia, ante a finibus imperdiet, dui purus pharetra nulla, vel posuere tellus metus id magna. Nam ac lorem ut enim auctor venenatis at vel elit. Fusce arcu mi, ullamcorper nec sagittis vitae, congue vel est. Duis nibh tortor, vulputate eu enim gravida, pretium efficitur diam. Aliquam sollicitudin metus ac ante ultrices, id interdum leo ornare. Mauris nisi mi, tristique et tristique eget, bibendum nec libero. Proin libero est, pulvinar at malesuada nec, suscipit in lectus. Aliquam ullamcorper accumsan fermentum. Aenean at mollis nisi.",
       "technologies": ["JavaScript", "Express.js", "EJS"],
       "github": "https://github.com/aryanjand/Link-Shortener",
       "demo": "https://link-shortener-z5o8.onrender.com",

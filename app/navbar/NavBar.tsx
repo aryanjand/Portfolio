@@ -21,7 +21,7 @@ const NavBar = () => {
       <Link
         href={info.personalInfo.resumeLink}
         target="_blank"
-        aria-label="View Resume"
+        aria-label="Resume"
       >
         <h4 className="py-2 px-4 text-[14px] font-semibold text-[#e4ded7] sm:block  md:text-[16px] lg:block">
           View Resume
