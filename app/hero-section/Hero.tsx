@@ -37,7 +37,7 @@ const Hero = () => {
               hidden={true}
             />
             <AnimatedWords
-              title={`${info.personalInfo.jobTitle}`}
+              title={`${info.personalInfo.jobTitle2}`}
               style="text-xl md:text-3xl"
             />
           </div>
