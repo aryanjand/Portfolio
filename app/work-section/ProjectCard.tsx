@@ -24,7 +24,7 @@ const ProjectCard = ({
       initial="initial"
       animate="animate"
     >
-      <div className="grid-container grid-rows-auto grid grid-cols-5 gap-5 break-all">
+      <div className="grid-container grid-rows-auto grid grid-cols-5 gap-5">
         <div
           className={`row-span-1 px-5 lg:px-7 ${
             id % 2 === 0
